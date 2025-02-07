@@ -1,0 +1,4 @@
+source: src
+destination: docs
+sass:
+  sass_dir: src/assets/css
